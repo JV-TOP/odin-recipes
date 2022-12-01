@@ -15,7 +15,7 @@ Here's why:
 
 Of course, this all maybe my perspective, but at least I'm giving it a try here in Github hey. Let's see if I can make this intention a reality!
 
-<!-- Languages used -->
+<!-- Language used -->
 ### Built With
 
 [![Html5][Html5]][Html5]
@@ -23,6 +23,7 @@ Of course, this all maybe my perspective, but at least I'm giving it a try here 
 <!-- CONTACT -->
 ## Contact
 JV-TOP - 85484431+JV-TOP@users.noreply.github.com
+
 Project Link: [https://github.com/JV-TOP/odin-recipes](https://github.com/JV-TOP/odin-recipes)
 
 
