@@ -13,7 +13,7 @@ Here's why:
 - It allow us to learn about other cultures 
 - It makes us realize that after al we're more similar than different
 
-Of course, this all maybe my perspective, but at least I'm givin git a try here in Github hey. Let's see if I can make this intention a reality!
+Of course, this all maybe my perspective, but at least I'm giving it a try here in Github hey. Let's see if I can make this intention a reality!
 
 <!-- Languages used -->
 ### Built With
