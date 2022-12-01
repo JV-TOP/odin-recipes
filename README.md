@@ -18,12 +18,12 @@ Of course, this all maybe my perspective, but at least I'm giving it a try here 
 <!-- Languages used -->
 ### Built With
 
-[![Html5][Html5]][Html5-url]
+[![Html5][Html5]][Html5]
 
 <!-- CONTACT -->
 ## Contact
 JV-TOP - 85484431+JV-TOP@users.noreply.github.com
-Project Link: [https://github.com/your_username/repo_name](https://github.com/JV-TOP/odin-recipes)
+Project Link: [https://github.com/JV-TOP/odin-recipes](https://github.com/JV-TOP/odin-recipes)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
