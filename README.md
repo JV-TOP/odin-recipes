@@ -6,14 +6,14 @@ Hope you enjoy!-->
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A project about tasty Venezuelan food recipes that we have preserved as cultural heritage wherever we go in the world. I reckon everyone in the world should be able to try different foods and explore the cuisine of different regions.
+A project about tasty Venezuelan food recipes that we have preserved as cultural heritage wherever we go in the world. I reckon everyone in the world should be able to try different foods and explore the cuisine of different regions, especially Venezuelan one.
 
 Here's why:
 - It brings us closer together
 - It allow us to learn about other cultures 
 - It makes us realize that after al we're more similar than different
 
-Of course, this all maybe my perspective, but at least I'm giving it a try here in Github hey. Let's see if I can make this intention a reality!
+Of course, this is just my perspective, but at least I'm giving it a try here in Github hey. Let's see if I can make this intention a reality!
 
 <!-- Language used -->
 ### Built With
