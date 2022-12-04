@@ -6,7 +6,7 @@ Hope you enjoy!-->
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A project about tasty Venezuelan food recipes that we have preserved as cultural heritage wherever we go in the world. I reckon everyone in the world should be able to try different foods and explore the cuisine of different regions, especially Venezuelan one.
+A project about my favorite Venezuelan arepas recipe, and other food recipes that I would like to preserve as cultural heritage of the world. I reckon everyone in the world should be able to try different foods and explore the cuisine of different regions.
 
 Here's why:
 - It brings us closer together
